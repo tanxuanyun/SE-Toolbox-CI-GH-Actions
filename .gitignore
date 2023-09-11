@@ -1,0 +1,10 @@
+# Node.js
+node_modules/
+
+# JetBrains
+.idea/
+
+# App
+/data/
+/address-book-app.zip
+/.env
